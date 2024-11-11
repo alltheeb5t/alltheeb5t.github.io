@@ -58,13 +58,13 @@ nav .nav-link.active {
 main {
 	width: 100%;
 	background-color: #2F3336;
-	padding-top: 24px;
 	padding-right: 24px;
 	padding-left: 24px;
+	padding-bottom: 24px;
 }
 
 section {
-	padding-bottom: 24px;
+	padding-top: 24px;
 }
 
 h2 {
